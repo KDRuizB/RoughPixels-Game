@@ -10,5 +10,5 @@ Mechanics:
 - Ammo ammount and auto reload
 - simple UI containing: Ammo, healthPoints, currentHealth and score
 - Main, Pause, and GameWon screen (Connected Scenes for a Gameloop)
-- avarage PC game movement (w,a,s,d), you aim with the mouse pointer
+- avarage PC game movement (w,a,s,d), you aim with the mouse pointer, shoot left-mouse, heal right-mouse, PauseMenu Escape button
 - enemys get slowed when hit
